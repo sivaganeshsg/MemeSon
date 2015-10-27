@@ -8,14 +8,20 @@ My Udacity Profile : https://profiles.udacity.com/u/sivaganesh
 
 Screenshots of the Project :
 
-![MemeSon Pick an Image Screen](http://i.imgur.com/DEuz3Tv.png "MemeSon Pick an Image Screen")
+1) Pick an Image Screen
+![MemeSon - Pick an Image Screen](http://i.imgur.com/DEuz3Tv.png "MemeSon - Pick an Image Screen")
 
+2) Adding Meme Caption Text
 ![MemeSon - Adding Meme Caption Text](http://i.imgur.com/hHCm04G.png "MemeSon - Adding Meme Caption Text")
 
+3) Sharing the Meme Picture
 ![MemeSon - Sharing the Meme Picture](http://i.imgur.com/e7C5rDn.png "MemeSon - Sharing the Meme Picture")
 
+4) List of Shared Meme in Table View format
 ![MemeSon - List of Shared Meme in Table View format](http://i.imgur.com/hMSmxnc.png "MemeSon - List of Shared Meme in Table View format")
 
+5) List of Shared Meme in Collection View format
 ![MemeSon - List of Shared Meme in Collection View format](http://i.imgur.com/GWqSmq4.png "MemeSon - List of Shared Meme in Collection View format")
 
+6) View individual Meme
 ![MemeSon - View individual Meme](http://i.imgur.com/8udsqU2.png "MemeSon - View individual Meme")
